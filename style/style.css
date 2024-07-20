@@ -1,0 +1,44 @@
+*{
+    font-family: "Roboto Condensed", sans-serif;
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #FFFFFF;
+    padding: 30px 20px;
+    height: 102px;
+    width: 1444px;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+    margin: 0 115px;
+}
+nav div{
+
+}
+
+.logo img {
+    width:120px;
+    height: auto;
+}
+
+.navbar {
+    display: flex;
+    margin-left: 444px;
+}
+
+.navbar div {
+    padding: 30px 20px;
+    font-size: 22px;
+    margin-left: 52px;
+}
+
+.navbar a {
+    color: #fff;
+}
